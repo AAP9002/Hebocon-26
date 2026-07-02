@@ -1,3 +1,8 @@
+---
+title: Hebocon
+hide_title: true
+---
+
 <img width="297" height="71" alt="Hebocon-Logo" src="https://github.com/user-attachments/assets/c4a3800d-882c-48c5-8793-550b1a0da7ee" />
 <img width="62" height="30" alt="Glasonbury-Logo" src="https://github.com/user-attachments/assets/20497677-143b-4c8b-aec2-e52925085223" />
 
