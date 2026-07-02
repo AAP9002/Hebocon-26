@@ -6,8 +6,6 @@ Hebocon is a robot sumo-wrestling competition for those who are not technically 
 ## What do I do?
 Turn up during the build phase where toys, craft supplies and glue will be provided. You and your team have an hour to construct something wonderful to go into battle against other robots. The tournament will go on the big screen and we'll crown a champion!
 
-Hello
-
 
 ## Times and Places?
 
