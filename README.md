@@ -3,13 +3,18 @@
 
 Hebocon is a robot sumo-wrestling competition for those who are not technically gifted. It is a competition where crappy robots that can just barely move gather and somehow manage to engage in odd, awkward battles.
 
+<p>
+  <a href="/tournament">
+    <img src="https://img.shields.io/badge/📅_View-Tournament_Schedule-orange?style=for-the-badge" alt="View Tournament Schedule" />
+  </a>
+  <a href="/register">
+    <img src="https://img.shields.io/badge/🤖_Find_or_Register-Your_Team-blue?style=for-the-badge" alt="Find or Register Your Team" />
+  </a>
+</p>
+
 ## What do I do?
 Turn up during the build phase where toys, craft supplies and glue will be provided. You and your team have an hour to construct something wonderful to go into battle against other robots. The tournament will go on the big screen and we'll crown a champion!
 
 ## Times and Places?
 
 Build phase runs as a drop-in session between 9am-12 noon, in the LiveWire Tipi. You've an hour time limit to complete your building. Tournament will take place in the afternoon starting at 2:30pm to 3:30pm in The Sandbox.
-
-Want to take part? [Find or register your team here](https://docs.google.com/spreadsheets/d/1mnplWCLVoAxc58V8BcK7aLkeHkWbssX3GX-gB8zmOdE/edit?usp=sharing).
-
-Check out the [full tournament schedule](/tournament) for more details.
