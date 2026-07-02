@@ -39,7 +39,8 @@ They are limited and we have promised OM they will see them again so please retu
 
 ## Materials
 - Old toys
-- Playing cards - good material (old Softwire branding)
+- Wooden build kits
+- Playing cards - good strong material (old Softwire branding)
 - Random tat sourced from softwirians and junk draws
 - Pipe cleaners
 - Ducktape
