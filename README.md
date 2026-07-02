@@ -7,7 +7,7 @@ Hebocon is a robot sumo-wrestling competition for those who are not technically 
   <a href="/tournament">
     <img src="https://img.shields.io/badge/📅_View-Tournament_Schedule-orange?style=for-the-badge" alt="View Tournament Schedule" />
   </a>
-  <a href="/register">
+  <a href="https://docs.google.com/spreadsheets/u/0/d/1mnplWCLVoAxc58V8BcK7aLkeHkWbssX3GX-gB8zmOdE/htmlview">
     <img src="https://img.shields.io/badge/🤖_Find_or_Register-Your_Team-blue?style=for-the-badge" alt="Find or Register Your Team" />
   </a>
 </p>
