@@ -26,7 +26,9 @@ Build phase runs as a drop-in session between 9am-12 noon, in the LiveWire Tipi.
 
 ## Equiptment
 We have borrowed equitment from each office, so we can do out hebo-conning buissness.
-They are limited and we have promised OM we will see them again so please return equitment when they're not in use.
+
+They are limited and we have promised OM they will see them again so please return equitment when they're not in use.
+
 - 3 Siccors
 - 3 Hot glue guns - with glue sticks
 - 2 screwdrivers
