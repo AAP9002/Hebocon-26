@@ -23,3 +23,20 @@ Turn up during the build phase where toys, craft supplies and glue will be provi
 ## Times and Places?
 
 Build phase runs as a drop-in session between 9am-12 noon, in the LiveWire Tipi. You've an hour time limit to complete your building. Tournament will take place in the afternoon starting at 2:30pm to 3:30pm in The Sandbox.
+
+## Equiptment
+We have borrowed equitment from each office, so we can do out hebo-conning buissness.
+They are limited and we have promised OM we will see them again so please return equitment when they're not in use.
+- 3 Siccors
+- 3 Hot glue guns - with glue sticks
+- 2 screwdrivers
+
+
+## Materials
+- Old toys
+- Playing cards - good material (old Softwire branding)
+- Random tat sourced from softwirians and junk draws
+- Pipe cleaners
+- Ducktape
+- AA Batteries (⚠️ save your power for the battle)
+- AAA Batteries (⚠️ save your power for the battle)
