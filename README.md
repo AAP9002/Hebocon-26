@@ -6,7 +6,10 @@ Hebocon is a robot sumo-wrestling competition for those who are not technically 
 ## What do I do?
 Turn up during the build phase where toys, craft supplies and glue will be provided. You and your team have an hour to construct something wonderful to go into battle against other robots. The tournament will go on the big screen and we'll crown a champion!
 
-
 ## Times and Places?
 
-Build phase runs as a drop-in session between 9am-12 noon, in the LiveWire Tipi. You've an hour time limit to complete your building. Tournament will take place in the afternoon starting at 2:30pm to 3:30pm in The Sandbox
+Build phase runs as a drop-in session between 9am-12 noon, in the LiveWire Tipi. You've an hour time limit to complete your building. Tournament will take place in the afternoon starting at 2:30pm to 3:30pm in The Sandbox.
+
+Want to take part? [Find or register your team here](https://docs.google.com/spreadsheets/d/1mnplWCLVoAxc58V8BcK7aLkeHkWbssX3GX-gB8zmOdE/edit?usp=sharing).
+
+Check out the [full tournament schedule](/tournament) for more details.
