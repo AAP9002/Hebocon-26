@@ -15,6 +15,9 @@ Hebocon is a robot sumo-wrestling competition for those who are not technically 
   <a href="https://docs.google.com/spreadsheets/u/0/d/1mnplWCLVoAxc58V8BcK7aLkeHkWbssX3GX-gB8zmOdE/htmlview">
     <img src="https://img.shields.io/badge/🤖_Find_or_Register-Your_Team-blue?style=for-the-badge" alt="Find or Register Your Team" />
   </a>
+  <a href="https://calendar.app.google/FS18Pz79pHixCZR59">
+    <img src="https://img.shields.io/badge/⏰_Remind_Me-Championship_Battle-green?style=for-the-badge" alt="Add Championship Battle to Calendar" />
+  </a>
 </p>
 
 ## What do I do?
